@@ -37,4 +37,8 @@
   <!-- Content description for the button that displays the dialpad
        [CHAR LIMIT=NONE] -->
   <string name="dialpad_button_content_description">key pad</string>
+
+  <string name="main_call_history_tab_description">Call history</string>
+  <string name="main_send_feedback">Sending feedback</string>
+  <string name="nui_shortcut_name">Phone NUI</string>
 </resources>
